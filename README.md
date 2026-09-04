@@ -1,16 +1,93 @@
-## Hi there 👋
+# 👋 Hi, I'm Abeesh K
 
-<!--
-**abeeshkumaravel143-bit/abeeshkumaravel143-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm a Python developer focused on building practical applications and exploring Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+* 🎓 B.Com (Computer Applications) — 2024
+* 🎓 MCA — 2026
+* 💻 Focused on Python development and backend technologies
+* 🤖 Interested in Artificial Intelligence and Machine Learning
+* 📚 Currently learning Django and LangChain
+* 🧠 Improving problem-solving and algorithmic thinking
+* 🚀 Building practical projects to gain real-world development experience
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* 🐍 Python
+* 🌐 HTML
+* 🎨 CSS
+* 🗄️ SQL
+
+### Frameworks & Libraries
+
+* ⚡ FastAPI
+* 🌐 Django
+* 🐼 Pandas
+* 🔢 NumPy
+* 🔗 LangChain
+
+### Databases
+
+* 🐬 MySQL
+* 🐘 PostgreSQL
+
+### Tools & Technologies
+
+* 🐙 Git & GitHub
+* 🐳 Docker
+* 💻 VS Code
+* ⚛️ React
+* 🗃️ FAISS
+
+## 🚀 Featured Projects
+
+### 🤖 DevOps Runbook Assistant
+
+A RAG-powered AI assistant designed to help DevOps and SRE teams quickly find troubleshooting solutions from operational runbooks.
+
+The application uses retrieval-augmented generation to retrieve relevant runbook information and generate contextual responses.
+
+**Tech:** Python, FastAPI, React, FAISS, PostgreSQL, Groq, Docker
+
+🔗 **[View Project](https://github.com/abeeshkumaravel143-bit/DevOps-Runbook-Assistant)**
+
+---
+
+### 📊 Gradepoint — Student Performance Analysis & Score Prediction
+
+An end-to-end machine learning project that analyzes student performance and predicts final academic scores using academic, behavioral, and lifestyle-related factors.
+
+The project includes exploratory data analysis, data visualization, machine learning-based score prediction, student risk classification, and a Flask web application for predictions.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Flask, Matplotlib, Seaborn, Joblib, HTML, CSS
+
+🔗 **Project coming soon**
+
+## 📚 Currently Learning
+
+* 🐍 Advanced Python and problem-solving
+* 🌐 Django
+* 🔗 LangChain
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Machine Learning fundamentals and practical implementation
+
+## 🎯 Career Goal
+
+I'm looking for opportunities as a **Python Developer** where I can work on real-world applications, strengthen my backend development skills, and continue growing in AI/ML.
+
+## 🌐 Connect With Me
+
+📧 **Email:** [abeeshkumaravel143@gmail.com](mailto:abeeshkumaravel143@gmail.com)
+
+💼 **LinkedIn:** [Abeesh K](https://www.linkedin.com/in/abeesh-kumaravel-586b38292/)
+
+💻 **LeetCode:** [Abeesh K](https://leetcode.com/u/abeeshkumaravel/)
+
+---
+
+⭐ Thanks for visiting my profile!
