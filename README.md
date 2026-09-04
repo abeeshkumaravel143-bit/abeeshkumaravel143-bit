@@ -99,4 +99,10 @@ I'm looking for opportunities as a **Python Developer** where I can work on real
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeeshkumaravel143-bit&layout=compact&hide_border=true" height="170"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abeeshkumaravel143-bit&hide_border=true" />
+</p>
+
 ⭐ Thanks for visiting my profile!
