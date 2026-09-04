@@ -94,10 +94,7 @@ I'm looking for opportunities as a **Python Developer** where I can work on real
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abeeshkumaravel143-bit&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeeshkumaravel143-bit&layout=compact&hide_border=true" height="170"/>
-</p>
+
 
 ## 🔥 GitHub Streak
 
