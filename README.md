@@ -130,4 +130,4 @@ I'm looking for opportunities as a **Python Developer** where I can work on real
 
 ⭐ Thanks for visiting my profile!
 Add animated typing banner
-
+Clean up GitHub profile README
