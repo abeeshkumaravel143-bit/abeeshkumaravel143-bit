@@ -115,9 +115,6 @@ I'm looking for opportunities as a **Python Developer** where I can work on real
 
 ---
 
-## 📊 GitHub Stats
-
-
 
 ## 🔥 GitHub Streak
 
