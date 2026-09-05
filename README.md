@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Abeesh K
+<h1 align="center">👋 Hi, I'm Abeesh K</h1>
 
-### 🐍 Python Developer | AI/ML Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;AI%2FML+Enthusiast;Backend+Developer;Generative+AI+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Building practical applications with Python, AI/ML and Generative AI.
+</p>
 
 I'm a Python developer focused on building practical applications and exploring Artificial Intelligence and Machine Learning.
 
@@ -124,4 +130,7 @@ I'm looking for opportunities as a **Python Developer** where I can work on real
 
 [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-zeta-icqfe7msp0.vercel.app/)
 
+
 ⭐ Thanks for visiting my profile!
+Add animated typing banner
+
